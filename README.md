@@ -21,5 +21,4 @@ A1-B1, A1-B2, A1-C1, A1-C2, A2-B1, A2-B2, A2-C1, A2-C2, B1-C1, B1-C2, C1-B2
 step 3.
 6) The user will input a mass in the variable `obs_GC_mass` (located in section 1 of the Jupyter Notebook) which is the mass they observe from GC-MS output 
 and what they deem to be the mass of a product.
-7) The output of the script will be a dataframe that lists out all possible products that have masses that are +/- 1 of the mass inputted by the user in the variable
-`obs_GC_mass`
+7) The output of the script will be a dataframe that lists out all possible products that have masses that are between +/- 1 of the mass inputted by the user in the variable `obs_GC_mass`
