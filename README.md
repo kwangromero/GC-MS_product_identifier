@@ -11,8 +11,8 @@ seen from a GC-MS mass output.
 General work flow example:
 1) Three different types of reactants (i.e. A, B, and C) are added to a reaction tube along with any additional reagents that are necessary for the reaction to occur.
 2) Suppose each of the three reactants can be fragmented into two components:
-A => A1 + A2
-B => B1 + B2
+A => A1 + A2,
+B => B1 + B2,
 C => C1 + C2
 3) Assuming a product is formed by forming bonds between two fragments, the possible products that may form include:
 A1-B1, A1-B2, A1-C1, A1-C2, A2-B1, A2-B2, A2-C1, A2-C2, B1-C1, B1-C2, C1-B2
